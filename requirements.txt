@@ -1,6 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
+python==3.8.17
 dash=2.13.0=pypi_0
 dash-bootstrap-components=1.4.2=pypi_0
 dash-core-components=2.0.0=pypi_0
