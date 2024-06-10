@@ -7,6 +7,8 @@ from datetime import datetime, timedelta
 
 # Autenticación
 SERVICE_ACCOUNT_FILE = 'C:/Users/Andy/Downloads/magnetic-tenure-331920-d606890050d5.json'  # Ruta real a tu archivo de credenciales
+
+
 FOLDER_ID = '1pt91CLYTYR-f0gedUeMTmVYbFG14O7NE'  # ID del folder en Google Drive
 
 # Autenticación
